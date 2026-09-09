@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, my name is Mel and am an Engineering Physics student at the University of British Columbia 👋
+
+🔭 I am currently working on developing my personal Portfolio
+🌱 Through my classes, I am learning software construction in CPEN 221
+😄 I am passionate about continuous learning and I strive to deepen my understanding of software and coding
 
 <!--
 **melanie-edgell/melanie-edgell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
