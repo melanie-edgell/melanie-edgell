@@ -1,4 +1,4 @@
-## Hi there, my name is Mel and am an Engineering Physics student at the University of British Columbia 👋
+## Hi there, my name is Mel and am a second year Engineering Physics student at the University of British Columbia 👋
 
 🔭 I am currently working on developing my personal portfolio.
 
